@@ -1,6 +1,6 @@
 ## Hello from York!
 
-#Just a student, but becoming more prudent. 
+## Just a student, but becoming more prudent. 
 
 - 🔭 I’m currently working on distriubted systems in Java.
 - 🌱 I’m currently learning the Laravel PHP framework.
